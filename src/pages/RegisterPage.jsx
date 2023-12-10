@@ -1,3 +1,4 @@
+import "../assets/css/nhat.css";
 const RegisterPage = () => {
   return (
     <div>
